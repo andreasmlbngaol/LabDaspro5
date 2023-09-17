@@ -3,10 +3,5 @@ Repository untuk Lab Dasar Pemrograman 5 KOM C 23
 
 Fork Repository ini untuk tempat pengumpulan tugas-tugas
 
-## Tugas 1
+Ganti Branch sesuai dengan keperluan, atau klik link berikut:
 
-## UTS
-
-## Tugas 2
-
-## UAS
