@@ -12,3 +12,4 @@ git checkout uas
 git pull -all
 git checkout kuis_1
 git pull --all
+git checkout main
