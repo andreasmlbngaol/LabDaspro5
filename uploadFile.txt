@@ -1,0 +1,8 @@
+git checkout {nama tugas}
+git pull --all
+
+{Pindahkan File ke Folder nya}
+
+git add .
+git commit -m "{Pesan Commit}
+git push -u origin {nama tugas}
