@@ -1,4 +1,14 @@
-git clone https://github.com/{username}/LabDaspro5.git
-cd LabDaspro5
 git config --global user.name {username}
 git config --global user.email {email}
+git clone https://github.com/{username}/LabDaspro5.git
+cd LabDaspro5
+git checkout tugas_1
+git pull --all
+git checkout tugas_2
+git pull --all
+git checkout uts
+git pull --all
+git checkout uas
+git pull -all
+git checkout kuis_1
+git pull --all
