@@ -1,0 +1,4 @@
+git clone https://github.com/{username}/LabDaspro5.git
+cd LabDaspro5
+git config --global user.name {username}
+git config --global user.email {email}
