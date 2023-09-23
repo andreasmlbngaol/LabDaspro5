@@ -1,11 +1,32 @@
-# Lab DasPro 5
-Repository untuk Praktikum Dasar Pemrograman 5 KOM C 23
+# Kuis 1
+1. Buat program untuk menampilkan biodata pribadi Anda, data-data Anda diinputkan terlebih dahulu setelah itu ditampilkan!
 
-Fork Repository ini untuk tempat pengumpulan tugas-tugas
+   Contoh:
+   | Input |
+   |:------|
+   |Masukkan Nama Anda: **Andreas Manatar Lumban Gaol**|
+   |Masukkan NIM Anda: **221401067**|
+   |Masukkan Kom Anda: **B**|
+   |Masukkan Alamat Anda: **Jalan Sei Asahan**|
 
-Ganti Branch untuk melihat daftar tugas, atau klik link berikut:
+   | Output |
+   |:------|
+   |Hallo, Nama saya **Andreas Manatar Lumban Gaol**, NIM saya **221401067**, saya di kom **B**, alamat saya di **Jalan Sei Asahan**. Salam Kenal Semua!|
 
-* [Tugas 1](../../tree/tugas_1)
-* [UTS (Ujian Tengah Semester)](../../tree/uts)
-* [Tugas 2](../../tree/tugas_2)
-* [UAS (Ujian Akhir Semester)](../../tree/uas)
+2. Buat Program untuk menampilkan alamat lengkap anda!
+
+   Contoh:
+   | Input |
+   |:------|
+   |Jalan: **Dr. Mansyur**|
+   |No: **9**|
+   |Kota: **Medan**|
+   |Kode Pos: **12345**|
+
+   | Output |
+   |:------|
+   |Alamat: Jalan **Dr. Mansyur** No. **9** **Medan** **12345**|
+
+*Catatan :
+- _Masing-masing diinput ke dalam satu variabel._
+- _Tulisan tebal merupakan inputan._
