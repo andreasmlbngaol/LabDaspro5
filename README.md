@@ -9,3 +9,4 @@ Ganti Branch untuk melihat daftar tugas, atau klik link berikut:
 * [UTS (Ujian Tengah Semester)](../../tree/uts)
 * [Tugas 2](../../tree/tugas_2)
 * [UAS (Ujian Akhir Semester)](../../tree/uas)
+* [Kuis 1](../../tree/kuis_1)
