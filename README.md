@@ -1,6 +1,6 @@
 # Kuis 1
 
-## A. Program Bidoata
+## A. Program Biodata
 Buat program untuk menampilkan biodata pribadi Anda, data-data Anda diinputkan terlebih dahulu setelah itu ditampilkan!
 
 Contoh:
