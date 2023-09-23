@@ -1,5 +1,7 @@
 # Kuis 1
 
+**Deadline: Rabu, 27 September 2023 23:59**
+
 ## A. Program Biodata
 Buat program untuk menampilkan biodata pribadi Anda, data-data Anda diinputkan terlebih dahulu setelah itu ditampilkan!
 
