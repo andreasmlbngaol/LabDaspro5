@@ -33,6 +33,7 @@ Contoh:
 *Catatan :
 - _Masing-masing diinput ke dalam satu variabel._
 - _Tulisan tebal merupakan inputan._
+- _Nama program bebas_
 
 ## File yang dikumpulkan:
 1. Source Code Soal A
