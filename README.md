@@ -1,6 +1,6 @@
 # Kuis 1
 
-1. Buat program untuk menampilkan biodata pribadi Anda, data-data Anda diinputkan terlebih dahulu setelah itu ditampilkan!
+A. Buat program untuk menampilkan biodata pribadi Anda, data-data Anda diinputkan terlebih dahulu setelah itu ditampilkan!
 
    Contoh:
    | Input |
@@ -14,7 +14,7 @@
    |:------|
    |Hallo, Nama saya **Andreas Manatar Lumban Gaol**, NIM saya **221401067**, saya di kom **B**, alamat saya di **Jalan Sei Asahan**. Salam Kenal Semua!|
 
-2. Buat Program untuk menampilkan alamat lengkap anda!
+B. Buat Program untuk menampilkan alamat lengkap anda!
 
    Contoh:
    | Input |
