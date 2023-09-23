@@ -33,3 +33,8 @@ Contoh:
 *Catatan :
 - _Masing-masing diinput ke dalam satu variabel._
 - _Tulisan tebal merupakan inputan._
+
+Penamaan File:
+kuis_1_{Huruf Soal}_{Nama Panggilan}_{3 Digit terkahir NIM}.pas
+Contoh:
+kuis_1_A_Andreas_067.pas
