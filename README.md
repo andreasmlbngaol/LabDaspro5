@@ -34,6 +34,12 @@ Contoh:
 - _Masing-masing diinput ke dalam satu variabel._
 - _Tulisan tebal merupakan inputan._
 
+## File yang dikumpulkan:
+1. Source Code Soal A
+2. Screenshot Ouput Soal A
+3. Source Code Soal B
+4. Screenshot Output Soal B
+
 <p>Penamaan File:<br>
 kuis_1_{Huruf Soal}_{Nama Panggilan}_{3 Digit terakhir NIM}.pas<br>
 Contoh:<br>
