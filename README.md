@@ -49,11 +49,11 @@ Nomor urut dapat digunakan untuk menentukan kelas dan jalurnya. Berikut detailny
 Untuk detail tiap Kode Fakultas dan Kode Prodi pada link berikut:
 [Klik aja ini :v](https://docs.google.com/spreadsheets/d/1s7yNQjytmaS7Y9XYd_ASlU8oOHj4-kO9SrOfwDJXjLo/edit?usp=sharing)
 
-File yang dikumpulkan:
+### File yang dikumpulkan:
 1. Source Code Program
 2. Screenshot Output dengan nama dan nim kamu sendiri
 
-Penamaan File:
+### Penamaan File:
 1. tugas_[Nama Panggilan]_[3 digit terakhir NIM].pas untuk Source Code
 2. tugas_[Nama Panggilan]_[3 digit terakhir NIM].jpg untuk Screenshot
 
