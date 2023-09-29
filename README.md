@@ -15,7 +15,7 @@ Hasil Identifikasi NIM:
 3. Digit 5 dan 6 adalah kode prodi; (01)
 4. Digit 7, 8, dan 9 adalah nomor urut. (067)
 
-Nomor urut dapat digunakan untuk menentukan kelas dan jalurnya. Berikut detailnya:
+Untuk Mahasiswa dengan Prodi Ilmu Komputer, nomor urut dapat digunakan untuk menentukan kelas dan jalurnya. Berikut detailnya:
 1. Jika nomor urut dibagi 3 sisa 1 maka dia kelas A, sisa 2 maka dia kelas B, sisa 0 maka dia kelas C;
 
    Clue:
@@ -32,12 +32,13 @@ Nomor urut dapat digunakan untuk menentukan kelas dan jalurnya. Berikut detailny
 ## Tugas
 **Buat Programnya! :v**
 
-| Contoh Input |
+Contoh 1:
+| Input |
 |:------|
 |Nama : `Chyntia Claudia`|
 |NIM: `231401006`|
 
-| Contoh Output |
+| Output |
 |:------|
 |Nama : `Chyntia Claudia`|
 |NIM: `231401006`|
@@ -45,6 +46,19 @@ Nomor urut dapat digunakan untuk menentukan kelas dan jalurnya. Berikut detailny
 |Prodi: `Ilmu Komputer`|
 |Jalur: `SNBP`|
 |Kelas: `C`|
+
+Contoh 2:
+| Input |
+|:------|
+|Nama : `Andreas M Lbn Gaol`|
+|NIM: `210301102`|
+
+| Output |
+|:------|
+|Nama : `Andreas M Lbn Gaol`|
+|NIM: `210301102`|
+|Fakultas: `Pertanian`|
+|Prodi: `Agroteknologi`|
 
 Untuk detail tiap Kode Fakultas dan Kode Prodi pada link berikut:
 [Klik aja ini :v](https://docs.google.com/spreadsheets/d/1s7yNQjytmaS7Y9XYd_ASlU8oOHj4-kO9SrOfwDJXjLo/edit?usp=sharing)
