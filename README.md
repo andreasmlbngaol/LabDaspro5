@@ -69,9 +69,11 @@ Untuk detail tiap Kode Fakultas dan Kode Prodi pada link berikut:
 
 ### Penamaan File:
 1. tugas_1_[Nama Panggilan]_[3 digit terakhir NIM].pas untuk Source Code
-   Contoh: tugas_1_Andreas_067.pas
+
+   Contoh: `tugas_1_Andreas_067.pas`
 2. tugas_1_[Nama Panggilan]_[3 digit terakhir NIM].jpg untuk Screenshot
-   Contoh: tugas_1_Andreas_067.png
+
+   Contoh: `tugas_1_Andreas_067.png`
 
 ## More Clue
 1. Untuk memotong string digit ke 1 dan 2 bisa dilakukan dengan cara `nim[1] + nim[2]`;
