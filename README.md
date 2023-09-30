@@ -22,11 +22,11 @@ Untuk Mahasiswa dengan Prodi Ilmu Komputer stambuk 2023, nomor urut dapat diguna
 
    `if(nomorUrut mod 3 = 1) then
      kelas := 'A';`
-2. Jika nomor urut lebih kecil dari 36 maka dia jalur SNBP, lebih kecil dari 71 maka dia jalur SNBT, sisanya jalur SMM;
+2. Jika nomor urut lebih kecil dari 31 maka dia jalur SNBP, lebih kecil dari 71 maka dia jalur SNBT, sisanya jalur SMM;
 
    Clue:
 
-   `if(nomorUrut <= 35) then
+   `if(nomorUrut <= 30) then
      jalur := 'SNBP';`
 
 ## Tugas
