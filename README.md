@@ -75,6 +75,9 @@ Untuk detail tiap Kode Fakultas dan Kode Prodi pada link berikut:
 
    Contoh: `tugas_1_Andreas_067.png`
 
+### Commit Message:
+Pada saat mau mengirim File Buat Pesan Commit nya **Tugas 1**
+
 ## More Clue
 1. Untuk memotong string digit ke 1 dan 2 bisa dilakukan dengan cara `nim[1] + nim[2]`;
 2. Untuk mengubah Integer menjadi String dapat dilakukan dengan menggunakan unit `sysutils`, dan menggunakan function `IntToStr(221401067)`;
