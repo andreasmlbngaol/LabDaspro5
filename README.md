@@ -44,6 +44,7 @@ Contoh 1:
 |NIM: `231401006`|
 |Fakultas: `Ilmu Komputer dan Teknologi Informasi`|
 |Prodi: `Ilmu Komputer`|
+|Stambuk:`2023`|
 |Jalur: `SNBP`|
 |Kelas: `C`|
 
@@ -59,6 +60,7 @@ Contoh 2:
 |NIM: `210301102`|
 |Fakultas: `Pertanian`|
 |Prodi: `Agroteknologi`|
+|Stambuk: `2021`|
 
 Untuk detail tiap Kode Fakultas dan Kode Prodi pada link berikut:
 [Klik aja ini :v](https://docs.google.com/spreadsheets/d/1s7yNQjytmaS7Y9XYd_ASlU8oOHj4-kO9SrOfwDJXjLo/edit?usp=sharing)
