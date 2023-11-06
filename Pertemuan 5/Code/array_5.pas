@@ -23,9 +23,13 @@ begin
     ClrScr;
     for i := 0 to 100 do begin
         if(bilangan[i] = 0) then begin
+            writeln();
+            write('= ', jumlah);
             break;
         end;
-        writeln('Output bilangan[', i, '] = ', bilangan[i]);
+        if(i <> 0) then begin
+            write(' + ');
+        end;
+        write(bilangan[i]);
     end;
-    writeln('Jumlah = ', jumlah);
 end.
