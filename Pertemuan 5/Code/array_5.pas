@@ -7,7 +7,7 @@ var
 
 begin
     ClrScr;
-    jumlah := 0;
+    jumlah := 1;
     i := 0;
     writeln('Ketik "end" untuk menyelesaikan input!');
     while (true) do begin
@@ -16,7 +16,7 @@ begin
             break;
         end;
         bilangan[i] := StrToInt(bilanganStr[i]);
-        jumlah += bilangan[i];
+        jumlah *= bilangan[i];
         i += 1;
     end;
 
@@ -28,7 +28,7 @@ begin
             break;
         end;
         if(i <> 0) then begin
-            write(' + ');
+            write(' * ');
         end;
         write(bilangan[i]);
     end;

@@ -8,8 +8,8 @@ begin
     arrBilangan['a'] := 23;
     arrBilangan['b'] := 10;
     for i := 'a' to 'z' do begin
-        if(arrBilangan[i] = 0) then begin
-            writeln(i, '. ', arrBilangan[i]);
+        if(arrBilangan[i] <> 0) then begin
+            writeln(i, '. ', arrBi langan[i]);
         end;
     end;
 end.

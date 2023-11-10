@@ -27,7 +27,7 @@ begin
         for j := 1 to baris do begin
             write('|'); //Garis batas kiri
             for k := 1 to kolom do begin
-                write(matriks[i][j][k]:2:0); //2 angka di depan koma, dan 0 angka di belakang koma
+                write(matriks[i][j][k]:5:0); //2 angka di depan koma, dan 0 angka di belakang koma
             end;
             write('|'); //Garis batas kanan
             writeln();
