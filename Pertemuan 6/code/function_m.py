@@ -5,13 +5,13 @@ def area(length, width):
     return length * width
 
 
-
 def show(area):
     print("Luas = " + str(area))
 
 
 def clear():
     system("cls")
+
 
 
 
