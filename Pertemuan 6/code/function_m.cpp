@@ -3,6 +3,7 @@ using namespace std;
 
 int area(int length, int width) {
     return length * width;
+    cout << "Hello";
 }
 
 void show(int area) {

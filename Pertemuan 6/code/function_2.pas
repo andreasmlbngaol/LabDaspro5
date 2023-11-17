@@ -2,14 +2,16 @@ uses crt;
 
 function kuadrat(bil: Integer): LongInt;
 begin
-    kuadrat := bil * bil; exit;
+    kuadrat := sqr(bil); exit;
 end;
 
 var
     input: Integer;
+    hasil: LongInt;
 
 begin
     ClrScr;
     write('Masukkan bilangan bulat: '); readln(input);
-    writeln(kuadrat(input));
+    hasil := kuadrat(input);
+    writeln(hasil);
 end.

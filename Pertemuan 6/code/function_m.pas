@@ -1,8 +1,10 @@
 program persegiPanjang;
 uses crt;
 
-function area(length: Integer; width: Integer): Integer; begin
+function area(length: Integer; width: Integer): Integer;
+begin
     area := length * width; exit;
+    writeln('Hello');
 end;
 
 procedure show(area: Integer); begin

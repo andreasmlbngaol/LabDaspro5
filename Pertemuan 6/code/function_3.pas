@@ -26,7 +26,7 @@ var
 
 begin
     ClrScr;
-    write('Masukkan jari-jari tabung: '); readln(d);
+    write('Masukkan diameter tabung: '); readln(d);
     write('Masukkan tinggi tabung: '); readln(t);
     r := d / 2;
 
