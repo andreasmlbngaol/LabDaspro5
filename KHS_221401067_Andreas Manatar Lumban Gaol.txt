@@ -1,0 +1,25 @@
+Kartu Hasil Studi
+=================
+
+Nama   : Andreas Manatar Lumban Gaol
+NIM    : 221401067
+KOM    : B
+
+|=============================================|
+|No  |Matkul                            |Nilai|
+|=============================================|
+|1.  |Praktikum Basis Data              |A    |
+|2.  |Basis Data                        |A    |
+|3.  |Praktikum Struktur Data           |A    |
+|4.  |Struktur Data                     |A    |
+|5.  |Kecerdasan Buatan                 |A    |
+|6.  |Wirausaha Digital                 |A    |
+|7.  |Praktikum Pemrograman Web         |A    |
+|8.  |Pemrograman Web                   |A    |
+|9.  |Etika Profesi                     |A    |
+|10. |Basic English Grammar             |A    |
+|11. |Komunikasi dan Pengembangan Diri  |A    |
+|=============================================|
+
+Total SKS  : 23
+IP Semester: 4.00
