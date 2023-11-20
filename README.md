@@ -100,3 +100,11 @@ Buat Program untuk mencetak KHS yang hasilnya adalah file dalam bentuk .txt, den
 * [Bentuk Output](KHS_221401067_Andreas%20Manatar%20Lumban%20Gaol.txt)
 
 Informasi yang tampil dan bentuk tabel harus sama, tapi detail seperti garis bawah pada judul bisa berbeda
+
+# Format Pengumpulan
+1. Source Code dengan nama file `NIM_NAMA.pas`
+2. File txt dengan nama file `KHS_NIM_NAMA.txt`
+
+## Contoh
+1. `067_Andreas.pas`
+2. `KHS_221401067_Andreas Manatar Lumban Gaol.txt`
