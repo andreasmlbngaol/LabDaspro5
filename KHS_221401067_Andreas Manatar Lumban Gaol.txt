@@ -3,7 +3,6 @@ Kartu Hasil Studi
 
 Nama   : Andreas Manatar Lumban Gaol
 NIM    : 221401067
-KOM    : B
 
 |=============================================|
 |No  |Matkul                            |Nilai|
