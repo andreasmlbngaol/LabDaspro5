@@ -57,43 +57,6 @@ Buat Program untuk mencetak KHS yang hasilnya adalah file dalam bentuk .txt, den
 - ...
 - Nilai Matkul n Mahasiswa
 
-## Contoh Input:
-- 11 				(Banyak Matkul)
-- Praktikum Basis Data 	(Nama Matkul 1)
-- 1 				(SKS Matkul 1)
-- Basis Data 			(Nama Matkul 2)
-- 3				(SKS Matkul 2)
-- Praktikum Struktur Data	(Nama Matkul 3)
-- 1				(SKS Matkul 3)
-- Struktur Data
-- 3
-- Kecerdasan Buatan
-- 3
-- Wirausaha Digital
-- 2
-- Praktikum Pemrograman Web
-- 1
-- Pemrograman Web
-- 3
-- Etika Profesi
-- 2
-- Basic English Grammar
-- 2
-- Komunikasi dan Pengembangan Diri	(Nama Matkul n)
-- 2						(SKS Matkul n)
-- Andreas Manatar Lumban Gaol		(Nama Mahasiswa)
-- 221401067					(NIM Mahasiswa)
-- A	(Nilai Matkul 1 Mahasiswa)
-- A	(Nilai Matkul 2 Mahasiswa)
-- A	(Nilai Matkul 3 Mahasiswa)
-- A
-- A
-- A
-- A
-- A
-- A
-- A
-- A	(Nilai Matkul n Mahasiswa)
 
 ## Contoh Video Input
 [Contoh Video Input](https://drive.google.com/file/d/19fKbw1Tq2uLTVgsvvhCbH34-t5u3CTwX/view?usp=sharing)
