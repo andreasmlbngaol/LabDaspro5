@@ -95,6 +95,9 @@ Buat Program untuk mencetak KHS yang hasilnya adalah file dalam bentuk .txt, den
 - A
 - A	(Nilai Matkul n Mahasiswa)
 
+## Contoh Video Input
+[Contoh Video Input](https://drive.google.com/file/d/19fKbw1Tq2uLTVgsvvhCbH34-t5u3CTwX/view?usp=sharing)
+
 ## Output
 
 * [Bentuk Output](KHS_221401067_Andreas%20Manatar%20Lumban%20Gaol.txt)
