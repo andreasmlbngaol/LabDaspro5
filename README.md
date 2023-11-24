@@ -1,4 +1,4 @@
-# TUGAS 2 (Deadline: Sesuka Hatiku)
+# TUGAS 2 (Deadline: 10 Desember 2023 23:59)
 Buat Program untuk mencetak KHS yang hasilnya adalah file dalam bentuk .txt, dengan nama file: 
 
 `"KHS_{NIM}_{Nama Lengkap}.txt"`
