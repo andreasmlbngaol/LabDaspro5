@@ -63,7 +63,7 @@ Buat Program untuk mencetak KHS yang hasilnya adalah file dalam bentuk .txt, den
 
 ## Output
 
-* [Bentuk Output](KHS_221401067_Andreas%20Manatar%20Lumban%20Gaol.txt)
+* [Bentuk Output](KHS_231401021_Ferdy%20Ariyansyah.txt)
 
 Informasi yang tampil dan bentuk tabel harus sama, tapi detail seperti garis bawah pada judul bisa berbeda
 
