@@ -1,0 +1,15 @@
+Kartu Hasil Studi
+=================
+
+Nama   : Rima Maharani Lubis
+NIM    : 231401015
+
+|=======================================|
+|No |Matkul                       |Nilai|
+|=======================================|
+|1. |Dasar Pemrograman            |A    |
+|2. |Praktikum Dasar Pemrograman  |B    |
+|=======================================|
+
+Total SKS  : 4
+IP Semester: 3.75
